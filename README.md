@@ -1,0 +1,1 @@
+# craftwork_delete
